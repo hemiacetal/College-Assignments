@@ -1,0 +1,10 @@
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\bin\Release\301030868(ren)_Lab1.exe.config
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\bin\Release\301030868(ren)_Lab1.exe
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\bin\Release\301030868(ren)_Lab1.pdb
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\obj\Release\calculatorLab1.Calculator.resources
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\obj\Release\calculatorLab1.Properties.Resources.resources
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\obj\Release\301030868(ren)_Lab1.csproj.GenerateResource.cache
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\obj\Release\301030868(ren)_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\obj\Release\301030868(ren)_Lab1.exe
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\obj\Release\301030868(ren)_Lab1.pdb
+C:\Users\yusei\Documents\College\COMP212\301030868(ren)_Lab1\301030868(ren)_Lab1\obj\Release\301030868(ren)_Lab1.csprojAssemblyReference.cache

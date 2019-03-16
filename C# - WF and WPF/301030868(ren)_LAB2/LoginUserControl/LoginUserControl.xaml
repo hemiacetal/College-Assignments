@@ -1,0 +1,37 @@
+﻿<!-- 
+    Filename:       LoginUserControl.xaml
+    Author:         Vivian Ren (301030868)
+    Due date:       February 8, 2019
+    Description:    Part of Question 2 for Lab 2 of COMP212.
+                    Contains all design elements of the LoginUserControl element.
+                    Username has a regular TextBox, password has a PasswordBox.
+    -->
+    
+<UserControl x:Class="LoginUserControl.LoginUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:LoginUserControl"
+             mc:Ignorable="d" 
+             d:DesignHeight="100" d:DesignWidth="300">
+    <StackPanel>
+        <Grid Margin="0,0,0,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height ="30px"/>
+                <RowDefinition Height ="10px"/>
+                <RowDefinition Height ="30px"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Content="Username:" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Label Content="Password:" Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <TextBox x:Name="usernameTextBox" Text="" Grid.Row="0" Grid.Column="1" VerticalAlignment="Center"/>
+            <PasswordBox x:Name="passwordTextBox" PasswordChar="*" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" />
+        </Grid>
+        <Button Content="Login" Width="50" HorizontalAlignment="Right" Click="Button_Click"/>
+    </StackPanel>
+</UserControl>

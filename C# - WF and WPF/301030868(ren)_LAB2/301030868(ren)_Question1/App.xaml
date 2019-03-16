@@ -1,0 +1,48 @@
+﻿<Application x:Class="_301030868_ren__Question1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_301030868_ren__Question1"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        
+        <x:Array x:Name="BevCombo" x:Key="Beverages" Type="sys:String" >
+            <sys:String>Soda</sys:String>
+            <sys:String>Tea</sys:String>
+            <sys:String>Coffee</sys:String>
+            <sys:String>Mineral Water</sys:String>
+            <sys:String>Juice</sys:String>
+            <sys:String>Milk</sys:String>
+        </x:Array>
+
+        <x:Array x:Name="AppCombo" x:Key="Appetizers" Type="sys:String" >
+            <sys:String>Buffalo Wings</sys:String>
+            <sys:String>Buffalo Fingers</sys:String>
+            <sys:String>Potato Skins</sys:String>
+            <sys:String>Nachos</sys:String>
+            <sys:String>Mushroom Caps</sys:String>
+            <sys:String>Shrimp Cocktail</sys:String>
+            <sys:String>Chips and Salsa</sys:String>
+        </x:Array>
+
+        <x:Array x:Name="MainCombo" x:Key="MainCourse" Type="sys:String">
+            <sys:String>Seafood Alfredo</sys:String>
+            <sys:String>Chicken Alfredo</sys:String>
+            <sys:String>Chicken Picatta</sys:String>
+            <sys:String>Turkey Club</sys:String>
+            <sys:String>Lobster Pie</sys:String>
+            <sys:String>Prime Rib</sys:String>
+            <sys:String>Shrimp Scampi</sys:String>
+            <sys:String>Turkey Dinner</sys:String>
+            <sys:String>Stuffed Chicken</sys:String>
+        </x:Array>
+
+        <x:Array x:Name="DesCombo" x:Key="Desserts" Type="sys:String">
+            <sys:String>Apple Pie</sys:String>
+            <sys:String>Sundae</sys:String>
+            <sys:String>Carrot Cake</sys:String>
+            <sys:String>Mud Pie</sys:String>
+            <sys:String>Apple Crisp</sys:String>
+        </x:Array>
+    </Application.Resources>
+</Application>

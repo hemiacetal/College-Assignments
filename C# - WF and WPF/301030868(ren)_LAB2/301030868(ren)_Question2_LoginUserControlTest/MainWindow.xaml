@@ -1,0 +1,24 @@
+﻿<!-- 
+    Filename:       MainWindow.xaml
+    Author:         Vivian Ren (301030868)
+    Due date:       February 8, 2019
+    Description:    Part of Question 2 for Lab 2 of COMP212.
+                    Contains all design elements of MainWindow for LoginUserControl testing.
+                    Uses Dependency Properties through the Username/Password for confirmation.
+                    Currently set Username to "myusername" and Password to "mypassword". 
+    -->
+    
+    <Window x:Class="_301030868_ren__Question2_LoginUserControlTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_301030868_ren__Question2_LoginUserControlTest"
+        xmlns:LoginUserControl="clr-namespace:LoginUserControl;assembly=LoginUserControl"
+        mc:Ignorable="d"
+        Title="Vivian Ren's Login" Height="160" Width="400" MinHeight="160" MinWidth="400" ResizeMode="NoResize">
+    <StackPanel>
+        <!-- Dependency Properties for confirming the names. Set to  -->
+        <LoginUserControl:LoginUserControl Margin="10" DataContext="{Binding RelativeSource={RelativeSource Self}}" Username="myusername" Password="mypassword"/>
+    </StackPanel>
+</Window>

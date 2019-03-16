@@ -1,0 +1,13 @@
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\bin\Debug\LoginUserControl.dll
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\bin\Debug\LoginUserControl.pdb
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.csprojAssemblyReference.cache
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.g.cs
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl_MarkupCompile.cache
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl_MarkupCompile.lref
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.baml
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.g.resources
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.Properties.Resources.resources
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.csproj.GenerateResource.cache
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.csproj.CoreCompileInputs.cache
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.dll
+x:\Users\hemi\Documents\college\Proj\COMP212\301030868(ren)_LAB2\LoginUserControl\obj\Debug\LoginUserControl.pdb
